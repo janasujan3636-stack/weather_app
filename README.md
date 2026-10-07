@@ -1,6 +1,6 @@
 # AeroCast Weather — Flutter Mobile Application with REST API & Firebase Storage
 
-> **Developed for Practical 12:** Develop and Deploy a Complete Flutter App with Backend API and Firebase Storage (Final Project Demo)  
+ 
 > **Institution:** VIVA Institute of Technology (Department of Computer Science & Engineering - AI & ML)
 
 ---
@@ -112,6 +112,3 @@ The built APK is saved at:
 
 ---
 
-## 📄 Academic Lab Report
-The complete laboratory report matching the VIVA Institute format is available at:  
-[`PRACTICAL_12_REPORT.md`](./PRACTICAL_12_REPORT.md)
