@@ -46,16 +46,22 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+
+GoogleService-Info.plist
+# Node.js
+**/node_modules/
+
+# Gradle generated files
+android/build/
+android/.gradle/
+
 # Environment / secrets
 .env
 .env.*
 !.env.example
 
-# Android signing keys
+# Android signing
 *.jks
 *.keystore
 key.properties
-
-# Firebase / Google credentials
-
-GoogleService-Info.plist
